@@ -1,0 +1,11 @@
+rooms
+area
+pop
+pop_dens
+frg_pct
+emp
+tax_income
+distance_to_zurich_hb
+room_per_m2
+furnished
+zurich_city
